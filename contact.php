@@ -27,8 +27,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <h1>Need help with an order?</h1>
         <p>Send a message and the EShop team will get back to you.</p>
         <div class="contact-details">
-            <p><strong>Email:</strong> support@eshop.local</p>
-            <p><strong>Phone:</strong> +1 555 0123</p>
+            <p><strong>Email:</strong> purnenduthokdar6@gmail.com</p>
+            <p><strong>Phone:</strong> 9800868698</p>
+            <p><strong>Address:</strong> Kolkata</p>
         </div>
     </div>
 

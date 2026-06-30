@@ -6,20 +6,20 @@ include __DIR__ . '/includes/navbar.php';
 
 <main class="section content-page">
     <p class="eyebrow">About</p>
-    <h1>Built for simple, reliable online shopping.</h1>
-    <p>EShop is a clean ecommerce starter website with product browsing, user accounts, cart management, checkout, and admin tools. It is designed as a practical PHP/MySQL project that you can customize for any product category.</p>
+    <h1>About EShop</h1>
+    <p>Welcome to EShop, your trusted online shopping destination for quality products at affordable prices. Our goal is to make online shopping simple, secure, and convenient by offering a wide range of products, an easy-to-use interface, and a seamless checkout experience. We are committed to providing excellent customer service and ensuring every customer enjoys a smooth shopping journey.</p>
     <div class="feature-row">
         <div>
-            <h2>Curated catalog</h2>
-            <p>Add and manage products with categories, images, prices, and stock levels.</p>
+            <h2>Wide Product Collection</h2>
+            <p>Browse a variety of products across multiple categories with detailed descriptions and attractive pricing.</p>
         </div>
         <div>
-            <h2>Fast checkout</h2>
-            <p>Customers can create accounts, review cart totals, and place orders quickly.</p>
+            <h2>Secure Shopping</h2>
+            <p>Your personal information and transactions are protected with secure authentication and reliable payment processing.</p>
         </div>
         <div>
-            <h2>Admin control</h2>
-            <p>Track products and customer orders from a dedicated admin dashboard.</p>
+            <h2>Fast & Easy Ordering</h2>
+            <p>Enjoy a simple shopping experience with an intuitive cart, quick checkout process, and easy order tracking.</p>
         </div>
     </div>
 </main>
